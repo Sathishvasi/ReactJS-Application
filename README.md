@@ -1,17 +1,36 @@
-REACT JS APPLICATION
+# REACT JS APPLICATION
 
-Objectives:
-*Displays data based on JSON value  
-*Redirects page to related data
 
-Modules:
-*Cards to be displayed from JSON data
-*Card flipping while hovering
-*After flipping it redirects to related page
+1. Objectives:
 
-Tools used:
-*Visual studio
-*ReactJS library
-*Node JS (npm) -> npm to start the project (npm start)
-*Bootstrap
-*CSS3
+   *Displays data based on JSON value  
+
+   *Redirects page to related data
+
+
+
+2. Modules:
+
+   *Cards to be displayed from JSON data
+
+   *Card flipping while hovering
+
+   *After flipping it redirects to related page
+
+
+3. Tools used:
+
+   *Visual studio
+
+   *ReactJS library
+
+   *Node JS (npm) -> npm to start the project (npm start)
+
+   *Bootstrap
+
+   *CSS3
+
+
+
+
+
