@@ -1,6 +1,5 @@
 # REACT JS APPLICATION
 
-
 1. Objectives:
 
    *Displays data based on JSON value  
@@ -18,7 +17,12 @@
    *After flipping it redirects to related page
 
 
-3. Tools used:
+3. Execution:
+
+   *"npm start" from root directory of the project to start React JS application
+
+  
+4. Tools used:
 
    *Visual studio
 
