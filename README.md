@@ -3,32 +3,32 @@
 
 1. Objectives:
 
-   *Displays data based on JSON value  
+   Displays data based on JSON value  
 
-   *Redirects page to related data
+   Redirects page to related data
 
 
 
 2. Modules:
 
-   *Cards to be displayed from JSON data
+   Cards to be displayed from JSON data
 
-   *Card flipping while hovering
+   Card flipping while hovering
 
-   *After flipping it redirects to related page
+   After flipping it redirects to related page
 
 
 3. Tools used:
 
-   *Visual studio
+   Visual studio
 
-   *ReactJS library
+   ReactJS library
 
-   *Node JS (npm) -> npm to start the project (npm start)
+   Node JS (npm) -> npm to start the project (npm start)
 
-   *Bootstrap
+   Bootstrap
 
-   *CSS3
+   CSS3
 
 
 

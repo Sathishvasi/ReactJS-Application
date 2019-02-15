@@ -11,23 +11,25 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">React JS Application</h1>
         </header>
-        {/* <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p> */}
-        <h3>RAJINI MOVIES TRANSFORMATIONS</h3>
         
-        <div class="row">
-          <ul>
+        <div class="bg-color">
+        < h4 class = "pt-5 pb-4 trans" > RAJINI MOVIES TRANSFORMATIONS </h4>
+        
+        <div class="container">
+          <ul class="row p-0">
           {
             rajini.map(function(movie){
-              return <li>
-                        <div class="col-md-3 card-container">
+              return <li class = "col" >
+                        <div class="card-container">
                         <div class="card">
                           <div class="side">
                           <img src={movie.url} class="images" alt="logo" />
                           <div class="m-title">{movie.name}</div>
                           </div>
-                          <div class="side back"><a target="_blank" href={movie.wiki}>Click here to view details</a></div>
+                          <div class="side back">
+                              <a target="_blank" href={movie.wiki}>Click here to view details</a>
+                              < img class="wiki" src = "https://upload.wikimedia.org/wikipedia/commons/d/de/Wikipedia_Logo_1.0.png"/>
+                          </div>
                         </div>
                         </div>
                       </li>;
@@ -35,6 +37,9 @@ class App extends Component {
           }
           </ul>
         </div>
+        </div>
+
+
       </div>
     );
   }
